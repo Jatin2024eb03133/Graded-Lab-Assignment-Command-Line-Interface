@@ -59,7 +59,4 @@ Display the absolute path of the plan_copy.txt file after it has been moved to t
 **Answer:
 realpath project_documents/archive/plan_copy.txt**
 
-yaml
-Copy code
-
 
